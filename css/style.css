@@ -471,10 +471,17 @@ p {
 
 /*---------------- Form Home Styling ------------------- */
 
-.form .hero-section {
-	background:url(../images/header-bg.jpg);
+.form .hero-section{
 	background-size: cover;
 	padding: 150px 0 0 0;
+}
+
+.val0 {
+	background:url(../images/header-bg.jpg);
+}
+
+.val1 {
+	background:url(../images/header-2.jpg);
 }
 
 .form .hero-content {
