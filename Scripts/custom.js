@@ -37,7 +37,7 @@ jQuery(function($) {
     ------------------------------------*/
 
     $(window).scroll(function () {
-      if ($(this).scrollTop() > 1000) {
+      if ($(this).scrollTop() > 800) {
           $('#back-top').fadeIn();
       } else {
           $('#back-top').fadeOut();
